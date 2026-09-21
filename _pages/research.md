@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 {% include toc %}
 
-## Research
+## Overview
 
 Goal: Developing complete, application-driven sensing microsystems by unifying fundamental device physics, custom electronics, and system-level field validation.
 
